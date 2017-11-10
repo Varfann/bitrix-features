@@ -127,7 +127,7 @@ class IBlockSearchHelper
      *
      * @return bool
      */
-    public function search($query, $iBlockType = '', $iBlockId = 0, $count = 10, $page = 0) {
+    public function search($query, $iBlockType = '', $iBlockId = 0, $count = 1000, $page = 0) {
         $params = ['SITE_ID'   => SITE_ID,
                    'MODULE_ID' => static::MODULE_ID,
                    'QUERY'     => $query];
