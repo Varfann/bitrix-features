@@ -1,0 +1,82 @@
+.bx-gadgets-doctornetpro-info {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+.bx-gadgets-doctornetpro-info .bx-gadgets-top-wrap {
+    background: #ffffff;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f7f9 100%);
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f7f9 100%);
+    background: linear-gradient(to bottom,  #ffffff 0%,#f6f7f9 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f7f9',GradientType=0 );
+    border-color: #c8d6e3 #c8d6e3 #f6f7f9;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.bx-gadgets-doctornetpro-info .bx-gadgets-top-button {
+    background: none;
+}
+.bx-gadgets-doctornetpro-info .bx-gadgets-content{
+    background: #fcfcfd;
+    background: -moz-linear-gradient(top,  #fcfcfd 0%, #e8eaed 100%);
+    background: -webkit-linear-gradient(top,  #fcfcfd 0%,#e8eaed 100%);
+    background: linear-gradient(to bottom,  #fcfcfd 0%,#e8eaed 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfd', endColorstr='#e8eaed',GradientType=0 );
+    border-color: #c8d6e3;
+}
+
+.bx-gadgets-doctornetpro-info table hr {
+    border: 0px;
+    height: 1px;
+    margin: 10px -20px;
+    color: #c8d6e3;
+    background-color: #c8d6e3;
+    box-shadow: 0px 1px 0px 0px #FFF;
+}
+
+.bx-gadgets-doctornetpro-info a {
+    text-decoration: none;
+}
+.bx-gadgets-doctornetpro-info a:hover {
+    text-decoration: underline;
+}
+.bx-gadgets-doctornetpro-info td>span {
+    cursor: default;
+}
+
+.bx-gadgets-doctornetpro-info .dnet-gadget_info_table {
+    width: 100%;
+}
+.bx-gadgets-doctornetpro-info .dnet-gadget_info_table td {
+    vertical-align: top;
+    padding: .2em .5em;
+}
+
+.bx-gadgets-doctornetpro-info .dnet-gadget-caption {
+    color: #64696f;
+    white-space: nowrap;
+}
+.bx-gadgets-doctornetpro-info .dnet-gadget-font {
+    font-family: Consolas, "Courier New", monospace;
+}
+.bx-gadgets-doctornetpro-info .dnet-gadget-tag {
+    color: #3c95bc;
+}
+.bx-gadgets-doctornetpro-info .dnet-gadget-marker {
+    color: #ed2024;
+}
+.bx-gadgets-doctornetpro-info .dnet-gadget-muted {
+    color: #a4a6a9;
+}
+.bx-gadgets-doctornetpro-info .dnet-gadget-link {
+    color: #3c95bc;
+}
+
+.bx-gadgets-doctornetpro-info .dnet-gadget-logo {
+    display: inline-block;
+    width: 199px;
+    height: 26px;
+    background-image: url('images/logo.png');
+}
